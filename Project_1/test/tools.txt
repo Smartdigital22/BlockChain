@@ -1,0 +1,5 @@
+Get bitcoin address :
+https://www.bitaddress.org/
+
+Sign message :
+https://reinproject.org/bitcoin-signature-tool/#
